@@ -1,0 +1,12 @@
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.deps.json
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.csproj.AssemblyReference.cache
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfoInputs.cache
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.AssemblyInfo.cs
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/obj/Debug/net7.0/refint/CleanArchitecture.Domain.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/obj/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Domain/obj/Debug/net7.0/ref/CleanArchitecture.Domain.dll

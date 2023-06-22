@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8C57B980-7D66-4B3F-AA1E-D4DD1A9847E0}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CleanArchitecture.Application/IMovieService.cs">
+    <Files>
+      <File FileName="CleanArchitecture.Domain/Movie.cs" Line="14" Column="1" />
+      <File FileName="CleanArchitecture.Application/IMovieRepository.cs" Line="4" Column="1" />
+      <File FileName="CleanArchitecture.Application/IMovieService.cs" Line="6" Column="23" />
+      <File FileName="CleanArchitecture.Application/MovieService.cs" Line="13" Column="1" />
+      <File FileName="CleanArchitecture.Infrastructure/MovieRepository.cs" Line="18" Column="2" />
+      <File FileName="CleanArchitecture.API/Controllers/MoviesController.cs" Line="17" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CleanArchitecture.Domain" expanded="True" selected="True">
+            <Node name="CleanArchitecture.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="CleanArchitecture.Application" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CleanArchitecture.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CleanArchitecture.Infrastructure FirstBuild="True" />
+</Properties>

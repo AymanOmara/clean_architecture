@@ -1,0 +1,15 @@
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.deps.json
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.AssemblyInfo.cs
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.csproj.CopyComplete
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/refint/CleanArchitecture.Application.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Application/obj/Debug/net7.0/ref/CleanArchitecture.Application.dll

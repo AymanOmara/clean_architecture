@@ -1,0 +1,17 @@
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Infrastructure.deps.json
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Infrastructure.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Infrastructure.pdb
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Application.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Domain.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Application.pdb
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/bin/Debug/net7.0/CleanArchitecture.Domain.pdb
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.AssemblyInfo.cs
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.csproj.CopyComplete
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/refint/CleanArchitecture.Infrastructure.dll
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/CleanArchitecture.Infrastructure.pdb
+/Users/aymanomara/Projects/CleanArchitecture.Domain/CleanArchitecture.Infrastructure/obj/Debug/net7.0/ref/CleanArchitecture.Infrastructure.dll
